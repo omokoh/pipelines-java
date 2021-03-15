@@ -1,3 +1,5 @@
+# Azure Pipelines badge
+[![Build Status](https://dev.azure.com/eyegoldjr/testPlan/_apis/build/status/omokoh.pipelines-java?branchName=master)](https://dev.azure.com/eyegoldjr/testPlan/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
